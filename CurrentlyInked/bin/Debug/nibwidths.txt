@@ -1,0 +1,16 @@
+(EEF) Extra-Extra-Fine
+(EF) Extra-Fine
+(F) Fine
+(M) Medium
+(B) Broad
+(BB) Double-Broad
+(BBB) Triple-Broad
+(OF) Oblique-Fine
+(OM) Oblique-Medium
+(OB) Oblique-Broad
+(OBB) Oblique-Double-Broad
+(OBBB) Oblique-Triple-Broad
+(S) Stub
+(I) Italic
+(CI) Cursive Italic
+(MU) Music
